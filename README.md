@@ -8,8 +8,6 @@
 
 ## 1부. 빠르게 알아보는 페이지 라우터(Page Router)
 
----
-
 ### 2장. 페이지 라우터 버전으로 Next.js 시작하기
 
 1. [Next.js 앱 생성하기](https://github.com/onebite-nextjs/book__onebite-next-codes/tree/main/section02/chapter04)
@@ -31,8 +29,6 @@
 7. 페이지 라우터 최종 정리
 
 ## 2부. 앱 라우터(App Router)
-
----
 
 ### 4장. 앱 라우터 버전의 Next.js 앱 시작하기
 
